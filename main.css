@@ -255,7 +255,6 @@ main {
   text-align: left;
 }
 
-
 .scores__table td{
   text-align: center;
 }
@@ -370,6 +369,7 @@ main {
   margin-right: -1em;
   padding-right: 1em;
 }
+
 .block-with-text:before {
   /* points in the end */
   content: '...';
@@ -379,6 +379,7 @@ main {
   right: 0;
   bottom: 0;
 }
+
 .block-with-text:after {
   /* points in the end */
   content: '';
